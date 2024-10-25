@@ -1,0 +1,16 @@
+Term,PICOC,Synonymus / Alike Terms
+Population,Software development industry,"software industry, it project"
+Population,Software Practitioner,"team members, programmer, software architect, software analyst, tester"
+Population,Software Development Lifecycle,"software development process, software process, software lifecycle, agile metholodogies"
+Intervention,Software Requirements Specification,"srs, user histories, use case, epic, functional requirements, not functional requirements, system requirements"
+Intervention,Software Design,"software architecture, system architecture, uml, design patterns"
+Intervention,Unified Modeling Language,uml
+Comparison,Code intelligence,"lowcode, low-code"
+Comparison,Artificial Intelligence,ai
+Comparison,Natural Languaje Processing Techniques,"natural languaje processing, nlp"
+Comparison,Generative AI,genai
+Comparison,Machine learning,ml
+Comparison,Deep Learning,dl
+Comparison,Large Language Models,"llm, gpt, palm, bert, claude, falcon, ernie, cohere, gemini, llama, orca, mistral, bloom, lamda, chinchilla"
+Outcome,An improvement in Sofware Design,"system application, system design, software design, uml, code"
+Context,Business Process Automation,"bpmn, business process modeling"
