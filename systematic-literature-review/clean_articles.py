@@ -1,9 +1,9 @@
+import pycountry
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 import os
 
-plt.style.use('seaborn-v0_8') 
 
 BASE_DIR = os.getcwd() + '/systematic-literature-review/'
 

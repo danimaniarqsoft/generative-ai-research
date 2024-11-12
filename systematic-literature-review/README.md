@@ -6,19 +6,18 @@ First of all make sure you have a virtual enviroment configured.
 
 ```shell
 pip install virtualenv
-virtualenv venv
 ```
 
 Create a virtual enviroment:
 
 ```shell
-virtualenv venv
+virtualenv .venv
 ```
 
 Activate the virtual enviroment
 
 ```shell
-source venv/bin/activate
+source .venv/bin/activate
 ```
 
 When you’re finished working in the project, you can deactivate the virtual environment to return to your general system Python environment by typing:
