@@ -14,22 +14,22 @@ Generating UML Class Diagram from Natural Language Requirements: A Survey of App
 Generating UML Class Diagram using NLP Techniques and Heuristic Rules,yes,yes,yes,partially,partially,4
 Generating UML Use Case and Activity Diagrams Using NLP Techniques and Heuristics Rules,partially,partially,yes,yes,partially,3.5
 Leveraging NLP Techniques for Privacy Requirements Engineering in User Stories,partially,yes,yes,yes,yes,4.5
-Modeling Class Diagram using NLP in Object-Oriented Designing,yes,yes,partially,partially,partially,3.5
-Processing natural language software requirement specifications,partially,partially,yes,partially,partially,3
-Natural language processing in mining unstructured data from software repositories: a review,yes,yes,partially,partially,yes,4
+Modeling Class Diagram using NLP in Object-Oriented Designing,yes,yes,partially,partially,yes,4
+Processing natural language software requirement specifications,partially,partially,yes,yes,yes,4
+Natural language processing in mining unstructured data from software repositories: a review,yes,yes,partially,yes,yes,4.5
 Automatic Transformation of User Stories into UML Use Case Diagrams using NLP Techniques,yes,yes,yes,partially,partially,4
 Object Oriented Software Modeling Using NLP Based Knowledge Extraction,yes,yes,partially,partially,partially,3.5
 Semi-automatic generation of UML models from natural language requirements,yes,yes,partially,partially,partially,3.5
 Text to software: developing tools to close the gaps in software engineering,yes,yes,yes,partially,partially,4
 Textual Requirement Analysis for UML Diagram Extraction by using NLP,yes,yes,yes,partially,partially,4
-UML @ Classroom: An Introduction to Object-Oriented Modeling,no,yes,no,no,no,1
+UML @ Classroom: An Introduction to Object-Oriented Modeling,partially,yes,partially,partially,partially,3
 CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation,partially,partially,yes,yes,yes,4
 Natural Language Requirements Processing: A 4D Vision,no,yes,partially,yes,partially,3
-A sketch of an approach for discovering UML use-case diagrams from textual specifications of systems using a chatbot,,,,,,0
-A Novel Natural Language Processing (NLP) Approach to Automatically Generate Conceptual Class Model from Initial Software Requirements,,,,,,0
-From text-based system specifications to UML diagrams: A bridge between words and models,,,,,,0
-Towards an Automatic Extracting UML Class Diagram from System's Textual Specification,,,,,,0
-"A Comprehensive Investigation of BPMN Models Generation from Textual Requirements—Techniques, Tools and Trends",,,,,,0
-Sketch2Process: End-to-End BPMN Sketch Recognition Based on Neural Networks,,,,,,0
-Automatic generation of business process models from user stories,,,,,,0
-Extraction of UML class diagrams using deep learning: Comparative study and critical analysis,,,,,,0
+A sketch of an approach for discovering UML use-case diagrams from textual specifications of systems using a chatbot,yes,yes,yes,yes,yes,5
+A Novel Natural Language Processing (NLP) Approach to Automatically Generate Conceptual Class Model from Initial Software Requirements,yes,yes,yes,yes,yes,5
+From text-based system specifications to UML diagrams: A bridge between words and models,yes,yes,yes,yes,yes,5
+Towards an Automatic Extracting UML Class Diagram from System's Textual Specification,yes,yes,yes,yes,yes,5
+"A Comprehensive Investigation of BPMN Models Generation from Textual Requirements—Techniques, Tools and Trends",no,yes,partially,yes,partially,3
+Sketch2Process: End-to-End BPMN Sketch Recognition Based on Neural Networks,yes,yes,yes,yes,yes,5
+Automatic generation of business process models from user stories,yes,yes,yes,yes,yes,5
+Extraction of UML class diagrams using deep learning: Comparative study and critical analysis,yes,yes,yes,yes,yes,5

@@ -1,0 +1,76 @@
+NLP analysis block + Block for extracting UML concepts
+NLP analysis layer + Use case identification layer + Class diagram element extraction layer
+RAT (Requirements Analysis Tool) + Heuristic module + UML model generator module
+NLP concept extraction module + Class extraction module
+NLP processing layer + Use Case Extraction Layer + Extraction layer of class and collaboration diagrams
+NLP concept extraction module + Class extraction module
+NLP analysis block + Diagram +code generation block
+NLP analysis block + Block for extracting UML concepts + refinement block
+NLP Block + UML concept extractor
+NLP module + UML extraction module
+Normalization module + NLP module + Concept extraction module + Refinement module
+NLP module + Knowledge Extractors + Re- finement module
+NLP module + XML refinement module + Weka Module (Classifier) + Visualization module
+NLP module + Binary classifier (Bernoulli Naive Bayes)
+NLP module + Machine Learning module + Modeling module (Plant UML)
+Pretreatment component + Descriptive component + Predictive component + Analysis and decision-making component + Communication component + Recommendation component + Tracing component + Query Response Component
+Embedding layer + Feature detection layer + Coreference resolution layer & relationship classification
+NLP analysis block + Diagram & code generation block
+
+
+
+
+
+
+
+"NLP (OpenNLP)
+Heuristic rules
+Domain ontologies"
+"NLP (OpenNLP)
+Heuristic rules
+Domain ontologies"
+-
+"NLP (StanfordNLP)
+Heuristic rules
+RUP (Rational Unified Process)
+Domain ontologies
+NLP (OpenNLP)
+NLP (Stanford CoreNLP)
+NLP (ANNIE)
+NLP (NLTK+NAIST+ORCHID)
+NLP (SpaCy)
+NLP (NLTK)
+NLP (SharpNLP)
+Machine Learning (SMO Algorithm)
+machine- learning
+Ma- chine Learning (Naive Bayes)
+Deep Learning (RNN)
+machinelearning
+Deep Learning (RNN bi-LSTM)
+Deep learning: RNN bi-LSTM – BERT – GPT – FFNN"
+"NLP (OpenNLP)
+Heuristic rules
+Domain ontologies"
+-
+-
+"NLP (StanfordNLP)
+Heuristic rules
+RUP (Rational Unified Process)
+NLP (Stanford CoreNLP)
+NLP (OpenNLP)
+Domain ontologies
+NLP (SharpNLP)
+Machine Learning (SMO Algorithm)
+Ma- chine Learning (Naive Bayes)
+Deep Learning (RNN)"
+-
+"NLP (OpenNLP)
+Heuristic rules
+Domain ontologies"
+"NLP (Stanford CoreNLP)
+Heuristic rules
+RUP (Rational Unified Process)
+NLP (OpenNLP)
+Domain ontologies"
+-
+-
